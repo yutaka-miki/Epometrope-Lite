@@ -1,1 +1,1 @@
-# Epometrope Mono (ver1.5)
+# Epometrope Mono (ver2.0)
